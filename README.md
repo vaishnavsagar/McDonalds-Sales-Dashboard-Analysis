@@ -4,7 +4,7 @@
 This project analyzes McDonald’s sales data from the year 2023 using Excel & Power Query.  
 The dynamic dashboard provides insights into sales trends, customer preferences, and category performance.
 
-## 🛠 Tools Used
+## Tools Used
 - Microsoft Excel (Pivot Tables, Charts)
 - Power Query (Data Cleaning & Transformation)
 
@@ -27,8 +27,3 @@ The dynamic dashboard provides insights into sales trends, customer preferences,
 ## 📷 Dashboard Preview
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/e855574d-1dbf-4291-a7ca-a9ecb616a774)
 
-
-## 🔗 Author
-**Sagar Vaishnav**  
-Data Analyst | Python, SQL, Excel | 10+ Years Finance Experience  
-[LinkedIn](https://www.linkedin.com/in/sagar-vaishnav-43726a264/) | [GitHub](https://github.com/vaishnavsagar)
